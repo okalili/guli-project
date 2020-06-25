@@ -8,6 +8,7 @@
   <name>gulimall</name>
   <description>聚合</description>
   <packaging>pom</packaging>
+<!--  modules 模块  至于什么id 只是在pom xml 体现的-->
   <modules>
     <module>gulimall-coupon</module>
     <module>gulimall-member</module>
